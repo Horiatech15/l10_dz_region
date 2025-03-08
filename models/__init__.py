@@ -3,5 +3,5 @@
 #
 # Copyright (c) 2022  - feddad.imad@gmail.com
 
-# from . import res_commune
 from . import res_country_state
+from . import res_partner
